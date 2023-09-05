@@ -7,7 +7,7 @@ This README contains a link to our Figma project, which serves as the central hu
 
 ## Link to Figma Project
 
-- [Figma Project](https://dribbble.com/shots/5429846-Switcher-XLIV)
+- [Figma Project](https://www.figma.com/file/sqmVRaROOLSY7DuWNUzBFm/Toggle-micro-interaction?type=design&node-id=0-1&mode=design&t=mNJwkRfT6WPimvcI-0)
 
 ## Usage Instructions
 
