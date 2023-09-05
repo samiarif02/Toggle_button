@@ -7,7 +7,7 @@ This README contains a link to our Figma project, which serves as the central hu
 
 ## Link to Figma Project
 
-- [Figma Project](https://dribbble.com/shots/5429846-Switcher-XLIV)
+- [Figma Project]([https://dribbble.com/shots/5429846-Switcher-XLIV])
 
 ## Usage Instructions
 
