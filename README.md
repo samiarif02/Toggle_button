@@ -1,17 +1,34 @@
-# demo
 
-A new Flutter project.
-https://dribbble.com/shots/5429846-Switcher-XLIV
+# Figma Project Link
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This README contains a link to our Figma project, which serves as the central hub for our design work. By accessing this Figma project, you can view, comment on, and collaborate with our team on the latest design iterations.
 
-A few resources to get you started if this is your first Flutter project:
+## Link to Figma Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Figma Project](https://dribbble.com/shots/5429846-Switcher-XLIV)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage Instructions
+
+To effectively use the Figma project, please follow these guidelines:
+
+1. **Viewing Designs**: Click the provided link to access the Figma project. You can view all our design screens and assets.
+
+2. **Commenting**: Feel free to leave comments on specific design elements or screens if you have feedback or suggestions.
+
+3. **Collaboration**: If you are a team member, you can actively collaborate on the project by making edits and updates. Make sure to follow our team's design principles and guidelines.
+
+4. **Version Control**: Ensure that you use version control within Figma to keep track of design revisions and changes.
+
+For any questions or assistance, please reach out to the project lead or the design team.
+
+## Contact
+
+If you have any questions or need assistance with the Figma project, please don't hesitate to contact:
+
+- [Sami Arif](samiarif02@gmail.com)
+
+## Conclusion
+
+We hope that our Figma project proves to be a valuable resource for our team's design work. Feel free to explore, collaborate, and innovate together. Happy designing!
